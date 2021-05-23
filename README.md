@@ -1,4 +1,4 @@
-# couter-views-capgemini
+# counter-views-capgemini
 Desafio Capgemini
 Uma aplicação desenvolvida com o JDK11, a mesma pode ser executada na IDE de sua preferencia, o desenvolvimento da mesma foi ultilizado o intellij, ou o mesmo atravé de linha cmd,
 porem tem que ser lido todos os pacotes, a porta de entrada é atráves da class Main do pacote application, o mesmo vai lhe oferecer ter opções de de entradas uma a qual registra os anuncio
